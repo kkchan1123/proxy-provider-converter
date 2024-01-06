@@ -1,4 +1,6 @@
 # Proxy Provider Converter
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmygugubird%2Fproxy-provider-converter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmygugubird%2Fproxy-provider-converter?ref=badge_shield)
+
 
 一个可以将 Clash 订阅转换成 Proxy Provider 和 External Group(Surge) 的工具
 
@@ -23,3 +25,7 @@
 
 - [Clash Wiki 中的 Proxy Providers 章节](https://github.com/Dreamacro/clash/wiki/configuration#proxy-providers)
 - [Surge Policy Group 文档](https://manual.nssurge.com/policy/group.html)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmygugubird%2Fproxy-provider-converter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmygugubird%2Fproxy-provider-converter?ref=badge_large)
